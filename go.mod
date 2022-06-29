@@ -1,4 +1,4 @@
-module github.com/delgoden/helloweb
+module github.com/delgoden/golang-united-school-homework-10
 
 go 1.17
 
