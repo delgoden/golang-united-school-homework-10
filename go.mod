@@ -1,4 +1,4 @@
-module github.com/GolangUnited/helloweb
+module github.com/delgoden/helloweb
 
 go 1.17
 
