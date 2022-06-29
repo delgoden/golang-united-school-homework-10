@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/GolangUnited/helloweb/internal/handlers"
+	"github.com/delgoden/helloweb/internal/handlers"
 	"github.com/gin-gonic/gin"
 	"log"
 	"net/http"
